@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Recipe BreadandPastries="Country Bread">  
+ <br />
+    <ingredients category= "Dry"> 
+        <List><ingredient type= "flour"><flourtype>white bread</flourtype> <measurement ImpVol= "cups">1 1/4</measurement> <measurement MetWeight= "grams">160</measurement></ingredient>
+            <ingredient type= "flour"><flourtype>stone-ground whole-wheat</flourtype> <measurement ImpVol= "cups">1/4</measurement> <measurement MetWeight= "grams">38</measurement></ingredient>
+            <ingredient type= "flour"><flourtype>stone-ground whole-rye</flourtype> <measurement ImpVol= "cups">1/4</measurement> <measurement MetWeight= "grams">32</measurement></ingredient>
+            <ingredient>instant yeast <measurement ImpVol= "teaspoons">1/2</measurement> <measurement MetWeight= "grams">2.5</measurement></ingredient>
+            <ingredient>table salt <measurement ImpVol= "teaspoons">1</measurement> <measurement MetWeight= "grams">5</measurement></ingredient> </List> </ingredients> 
+    <ingredients category= "Wet">
+        <list><ingredient type= "cider">dry fermented<measurement ImpVol= "cups">1/4</measurement><measurement Metweight= "grams">55</measurement></ingredient>
+            <ingredient type="water">lukewarm<measurement ImpVol= "cups">1/2</measurement><measurement Metweight= "grams">120</measurement></ingredient></list></ingredients>
+    <br />
+    <tools category= "Handheld">
+        <list>Wire Whisk,
+            Rubber Spatula or Bench Scraper,
+            Instant Read Thermometer,
+            Kitchen Scisors</list>
+    </tools>
+    <tools category= "Bowls and Measuring"> 
+        <list> Large Mixing Bowl,
+            Liquid Measuring Cup,
+            Large Round Colander,
+            Cast-Iron Dutch Oven with Lid or Enameled Cast-Iron Pot with Lid </list> </tools>
+    <tools category= "Others"> 
+        <list> Dish Towel x2,
+        Wire Cooling Rack
+      </list> </tools>
+    
+</Recipe>
+<!--Hi DrCambell I hope this is the correct formatting, I looked over the tutorials and this is what felt like the most coherent to me. I am not used to such open endedness, thanks!-->
+    
