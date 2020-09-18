@@ -1,0 +1,27 @@
+body {
+background-color: tan;
+color: darkgreen;
+font-family: georgia;
+text-align: left;
+border: 2px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+h2{
+	border: 3px solid darkgreen;
+    text-align: center;
+    
+    }
+
+i{
+    font-style: italic;
+
+
+small{
+        color: darkgreen;
+        font-family: georgia;
+        font-style: italic;
+        }
+        
+} 
